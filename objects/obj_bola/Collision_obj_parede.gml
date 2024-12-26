@@ -1,1 +1,1 @@
-move_bounce_all(true);
+move_bounce_solid(true);
