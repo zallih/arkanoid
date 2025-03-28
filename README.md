@@ -3,7 +3,7 @@
 
 <p align="middle">•Completo•</p>
 
-<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1321231581771468862/download20241200235357.png?ex=676c7c4c&is=676b2acc&hm=7e5939fb265950a07f74f884bc3ca3c599fedcdc376fec0cd281c824c2de4b38&">
+<img align="right" alt="zallih" width="150" src="https://github.com/zallih/Images/blob/main/zally.png?raw=true">
   <br><br>
 <div style="display: inline_block"><br>
  
